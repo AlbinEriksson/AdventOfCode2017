@@ -1,2 +1,6 @@
 # Input file folder
 input
+
+# PyCharm files
+.idea
+venv
